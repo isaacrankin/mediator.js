@@ -1,0 +1,10 @@
+{
+  "name": "mediator-pattern",
+  "version": "1.0.0",
+  "description": "An implementaton of the mediator design pattern in ES6 compiled to ES5 with Traceur.",
+  "author": "Isaac Rankin <https://github.com/isaacwebfix>",
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "gulp-traceur": "~0.16.0"
+  }
+}
