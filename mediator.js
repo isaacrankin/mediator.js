@@ -1,3 +1,18 @@
+
+class Mediator {
+
+    subscribe(channel, fn){
+
+    },
+
+    publish(channel){
+
+    }
+}
+
+
+/*
+
 var Mediator = function(){
 
     'use strict';
@@ -38,3 +53,5 @@ var Mediator = function(){
         }
     };
 };
+
+*/

@@ -1,0 +1,26 @@
+{
+  "name": "mediator.js",
+  "main": "mediator.js",
+  "version": "1.0.0",
+  "authors": [
+    "Isaac Rankin <https://github.com/isaacwebfix>"
+  ],
+  "description": "Mediator pattern implemented with ES6",
+  "keywords": [
+    "es6",
+    "mediator",
+    "javascript"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "traceur-runtime": "~0.0.82"
+  }
+}
