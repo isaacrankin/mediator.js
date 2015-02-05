@@ -5,6 +5,10 @@
   "author": "Isaac Rankin <https://github.com/isaacwebfix>",
   "devDependencies": {
     "gulp": "~3.8.10",
-    "gulp-traceur": "~0.16.0"
+    "gulp-traceur": "~0.16.0",
+    "gulp-jshint": "~1.9.2"
+  },
+  "dependencies": {
+    "gulp-watch": "~4.1.0"
   }
 }

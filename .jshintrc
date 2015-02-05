@@ -1,0 +1,7 @@
+{
+  "esnext": true,
+  "undef": false,
+  "unused": false,
+  "quotmark": "single",
+  "indent": 2
+}
